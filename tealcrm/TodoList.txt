@@ -1,0 +1,13 @@
+TodoList
+- DONE Create venv
+- Base pages
+    -Create app for pages
+    -Create base template
+    -Create front page
+- Autenticaction
+- Simple dashboard
+- Create new leads
+- Change and delete clients
+- Implement solutiion for clients
+- Implement a payment solution 
+- Deploy
