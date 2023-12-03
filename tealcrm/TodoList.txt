@@ -12,6 +12,11 @@ TodoList
     -DONE Log out
 - DONE Simple dashboard
 - Create new leads
+    -DONE New django app
+    -DONE Database models
+    -DONE View/Forms for leads
+    -List out leads
+    -View detail page of leads
 - Change and delete clients
 - Implement solutiion for clients
 - Implement a payment solution 
