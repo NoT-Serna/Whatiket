@@ -15,8 +15,10 @@ TodoList
     -DONE New django app
     -DONE Database models
     -DONE View/Forms for leads
-    -List out leads
-    -View detail page of leads
+    -DONE List out leads
+    -DONE View detail page of leads
+- DONE Change and delete clients
+- Convert leads to clients
 - Change and delete clients
 - Implement solutiion for clients
 - Implement a payment solution 

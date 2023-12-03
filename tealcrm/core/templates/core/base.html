@@ -27,6 +27,16 @@
             </div>
         </nav>
 
+        {% if messages %}
+            <div class="py-6 px-6">
+                {% for message in messages %}
+                    <div class="py-4 px-4 bg-teal-400 text-white rounded-xl">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
         {% block content %}
         {% endblock %}
 
