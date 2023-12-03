@@ -1,10 +1,15 @@
 TodoList
 - DONE Create venv
-- Base pages
-    -Create app for pages
-    -Create base template
-    -Create front page
+- DONE Base pages
+    -DONE Create app for pages
+    -DONE Create base template
+    -DONE Create front page
+    -DONE Create about page
 - Autenticaction
+    -DONE Create database model for userprofiles
+    -Sign up
+    -Log in
+    -Log out
 - Simple dashboard
 - Create new leads
 - Change and delete clients
