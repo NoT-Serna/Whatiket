@@ -5,12 +5,12 @@ TodoList
     -DONE Create base template
     -DONE Create front page
     -DONE Create about page
-- Autenticaction
+- DONE Autenticaction
     -DONE Create database model for userprofiles
-    -Sign up
-    -Log in
-    -Log out
-- Simple dashboard
+    -DONE Sign up
+    -DONELog in
+    -DONE Log out
+- DONE Simple dashboard
 - Create new leads
 - Change and delete clients
 - Implement solutiion for clients
