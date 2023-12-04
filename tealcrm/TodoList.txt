@@ -18,8 +18,11 @@ TodoList
     -DONE List out leads
     -DONE View detail page of leads
 - DONE Change and delete clients
-- Convert leads to clients
-- Change and delete clients
+- DONE Convert leads to clients
+- DONE Show a list of clients
+- DONE Show detailed page of a clien
+- DONE Add clients
+- DONE Change and delete clients
 - Implement solutiion for clients
 - Implement a payment solution 
 - Deploy
